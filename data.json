@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "Jonathan Reyes Canchela",
+    "email": "jonathan.canchela.3@gmail.com",
+    "phone": "09654906144",
+    "address": {
+        "street": "Blk. 17 Lot 14 Torcillo St.",
+        "city": "Caloocan City",
+        "zip": "1400"
+
+    },
+    "comnpany": {
+        "name": "Technovation",
+        "position": "Software Engineer",
+        "department": "Development"
+    }
+}
